@@ -39,7 +39,7 @@ function App() {
         </div>
         <div className='main'>
       <h2>{status}</h2>
-          <div className='dice'>{dice}</div>
+          <button className='dice'>{dice}</button>
         <button className='roll-dice' onClick={RollDice}>Roll Dice</button>
         </div>
     </div>

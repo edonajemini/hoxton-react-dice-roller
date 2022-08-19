@@ -12,6 +12,7 @@
   border: thin solid rgba(217, 186, 208, 0.783);
   margin:5px 500px;
   text-align: center;
+
 }
 .dice{
   width: 100px;
@@ -21,12 +22,13 @@
   text-align: center;
   padding: 10px;
   font-size: 2rem;
-  margin:20px ;
+  margin-right: 5px;
 }
 .roll-dice{
-  width: 200px;
+  width: 100px;
   padding: 20px;
   font-size: 1.5rem;
   justify-self: center;
-  margin-bottom: 10px;
+  background-color: rgba(217, 186, 208, 0.783);
+  margin-bottom: 20px;
 }
