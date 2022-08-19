@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+.header {
+  margin:20px 50px;
+  padding: 1px; 
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rgba(217, 186, 208, 0.783);
+  color: white;
+}
+.main{
+  border: thin solid rgba(217, 186, 208, 0.783);
+  margin:5px 500px;
+  text-align: center;
+}
+.dice{
+  width: 100px;
+  height: 100px;
+  background: white;
+  border: thin solid gray;
+  text-align: center;
+  padding: 10px;
+  font-size: 2rem;
+  margin:20px ;
+}
+.roll-dice{
+  width: 200px;
+  padding: 20px;
+  font-size: 1.5rem;
+  justify-self: center;
+  margin-bottom: 10px;
+}
